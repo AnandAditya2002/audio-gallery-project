@@ -1,4 +1,4 @@
-# audio gallery
+# audio_gallery_project
 <p align="center">
   <img src="https://cdn-icons-png.flaticon.com/512/9365/9365306.png" width="160" />
 </p>
